@@ -5,8 +5,10 @@
 
 <h1>Ini Projek WEB Kami</h1>
 <p>Kami beranggotakan 4 orang<\p>
-<p>yaitu dengan nama : Andra, Safanisha, M.Arif, dan Roni
-
+<p>yaitu dengan nama : Andra, Safanisha, M.Arif, dan Roni</p>
+<form>
+  <input type="text" name="nama">
+  <input type="text" name="ipk">
 </body>
 </head>
 </html>
