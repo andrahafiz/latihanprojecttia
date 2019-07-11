@@ -6,6 +6,8 @@
 <h1>Ini Projek WEB Kami</h1>
 <p>Kami beranggotakan 4 orang<\p>
 <p>yaitu dengan nama : Andra, Safanisha, M.Arif, dan Roni</p>
+<p>Biodata1</p>
+<p>Name : M.Arifc<br>Class : 1TIA<br>Umur : 19</p>
 <form>
   <input type="text" name="nama">
   <input type="text" name="ipk">
